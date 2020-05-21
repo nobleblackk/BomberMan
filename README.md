@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+Implementation of Basic BomberMan Game, which allows user to play and randomly guess which cell contains bomb inside. 
+the WebApp can be accessed at: https://nobleblackk.github.io/MineSweeper/
+
+
 You can use the [editor on GitHub](https://github.com/nobleblackk/MineSweeper_0/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
